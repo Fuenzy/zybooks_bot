@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         zyBooks Animation + Answer Helper
+// @name         zyBooks Helper
 // @namespace    fuenzy.zybooks.helper
-// @version      3.0
+// @version      1.0
 // @description  Starts and runs animations at 2x speed and detects answer results.
 // @match        https://learn.zybooks.com/*
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
 
-<!-- College is fucking gay!!!!! -->
+// College is fucking gay!!!!!
 
 
 (() => {
