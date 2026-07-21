@@ -2,6 +2,9 @@
 
 A Tampermonkey userscript that adds a small control panel to zyBooks pages and automates several repetitive interactive activity actions.
 
+What's different from other scripts like this one?
+It detects if the answer is wrong and tries again until the answer is right!
+
 The script can detect supported activities, run animation steps, enable faster playback, track completion progress, and interact with certain question/activity interfaces
 
 ## Features
