@@ -1,6 +1,10 @@
 # zyBooks Activity Helper
 
 A Tampermonkey userscript that adds a small control panel to zyBooks pages and automates several repetitive interactive activity actions.
+You can get the userscript extension here.
+| Extension         | Chrome Web Store                                                                                | Microsoft Edge Add-ons                                                                                   |
+| :---------------- | :---------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+| **Tampermonkey**  | [Link](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  | [Link](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)  |    
 
 What's different from other scripts like this one?
 It detects if the answer is wrong and tries again until the answer is right!
